@@ -2,7 +2,7 @@
 
 ###  I'm a Data Scientist and graduate of Flatiron School.
 I have a diverse background in education, medical claims, accounting, and property management over the past 10 years.  I enjoy creative problem solving and finding ways to 
-increase process efficiency.  Ultimately, I aim to help others using my experience and skillsets.
+increase process efficiency.  Ultimately, I aim to help others using my experience and skillset.
 
 - 🔭 I’m currently working on a YouTube analytics project.
 - 🌱 I’m currently brushing up on statistical concepts.
