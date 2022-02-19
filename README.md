@@ -9,7 +9,7 @@ increase process efficiency.  Ultimately, I aim to help others using my experien
 - 🎮 I love playing video games with my friends, and learning guitar in my free time.
 - ⚡ Fun fact: I learned to produce flute sounds using just my hands, albeit poorly.
 
-** Conect with me:
+## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nelson-c-genao)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NelGen)
